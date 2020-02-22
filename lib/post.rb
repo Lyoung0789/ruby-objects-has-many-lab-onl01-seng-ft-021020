@@ -2,7 +2,7 @@ class Post
   @@all= []
   
   def initialize (title)
-    @@all << title
+    @@all << self
   end 
   
   def self.all 
