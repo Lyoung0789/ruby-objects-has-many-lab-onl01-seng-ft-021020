@@ -12,7 +12,7 @@ class Post
   end 
   
   def author 
-    
+    Author.new
   end 
  
 end 
