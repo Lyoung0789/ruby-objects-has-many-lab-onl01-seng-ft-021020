@@ -18,6 +18,4 @@ class Song
     return nil
   end 
   end 
- 
-
 end 
