@@ -2,7 +2,7 @@ class Author
   attr_accessor :author, :name
   
   def initialize (name)
-    @author = name
+    @name = name
   end 
   
   def posts
