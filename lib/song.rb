@@ -2,7 +2,7 @@ class Song
   @@all =[]
   
   def initialize (name)
-    @@all << name
+    @@all << self
     
   end 
 
